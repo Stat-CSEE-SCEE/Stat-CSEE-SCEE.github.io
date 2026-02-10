@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Statistique SCEE"
+  toc: false
   navbar:
     left:
       - href: index.fr.qmd

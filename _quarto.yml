@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Statistics CSEE"
+  toc: false
   navbar:
     left:
       - href: index.qmd
