@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - href: index.fr.qmd
-        text: Home
+        text: Accueil
       - href: about.fr.qmd
         text: À propos
     right: 
