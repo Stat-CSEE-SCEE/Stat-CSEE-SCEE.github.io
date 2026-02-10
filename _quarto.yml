@@ -2,24 +2,6 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "Statistics CSEE // Statistique SCEE"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-    right: 
-      - href: index.fr.qmd
-        text: Français
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-editor: visual
-
+profile: 
+  default: english
+  group: [english, french]
