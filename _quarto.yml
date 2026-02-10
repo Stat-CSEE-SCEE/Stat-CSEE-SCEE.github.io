@@ -11,7 +11,7 @@ website:
       - href: about.qmd
         text: About us
     right: 
-      - href: /fr/index.fr.qmd
+      - href: fr/index.fr.qmd
         text: Français
         
 lang: en
