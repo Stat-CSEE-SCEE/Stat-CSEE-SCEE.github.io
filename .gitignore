@@ -1,5 +1,10 @@
+# R project files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 *.Rproj
+
+# Quarto files
+/.quarto/
+_site/*
