@@ -1,5 +1,1 @@
----
-title: "Section Statistique de la SCEE"
----
-
-la [Société Canadienne d'Écologie et d'Évolution](https://csee-scee.ca/fr/)!
+## Bienvenue à la Section de Statistique de la [Société Canadienne d'Écologie et d'Évolution](https://csee-scee.ca/fr/)!

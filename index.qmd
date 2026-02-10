@@ -1,5 +1,1 @@
----
-title: "Statistics Section of the CSEE"
----
-
-Welcome to the Statistics Section of the [Canadian Society for Ecology and Evolution](https://csee-scee.ca/)!
+## Welcome to the Statistics Section of the [Canadian Society for Ecology and Evolution](https://csee-scee.ca/)!
