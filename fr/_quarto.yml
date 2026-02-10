@@ -1,17 +1,18 @@
 project:
   type: website
-  output-dir: ./_site/en
+  output-dir: ../docs/fr
 
 website:
-  title: "Statistics CSEE"
+  title: "Statistique SCEE"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.fr.qmd
         text: Home
-      - about.qmd
+      - href: about.fr.qmd
+        text: À propos
     right: 
-      - href: ../fr
-        text: Français
+      - href: ../
+        text: English
 
 format:
   html:
