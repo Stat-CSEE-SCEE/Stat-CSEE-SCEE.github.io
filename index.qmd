@@ -3,9 +3,3 @@ title: "Statistics Section of CSEE // Section Statistique SCEE"
 ---
 
 Welcome to the Statistics Section of the [Canadian Society for Ecology and Evolution](https://csee-scee.ca/)!
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
