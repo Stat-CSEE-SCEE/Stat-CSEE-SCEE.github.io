@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Statistique SCEE"
-  toc: false
   navbar:
     left:
       - href: index.fr.qmd
@@ -21,7 +20,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

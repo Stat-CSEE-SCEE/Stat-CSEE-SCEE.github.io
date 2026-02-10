@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Statistics CSEE"
-  toc: false
   navbar:
     left:
       - href: index.qmd
@@ -23,7 +22,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
