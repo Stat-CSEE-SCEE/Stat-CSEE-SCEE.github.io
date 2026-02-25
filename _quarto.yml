@@ -5,11 +5,11 @@ project:
 website:
   title: "Statistics CSEE"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About us
+    # left:
+    #   - href: index.qmd
+    #     text: Home
+    #   - href: about.qmd
+    #     text: About us
     right: 
       - href: fr/index.fr.qmd
         text: Français
