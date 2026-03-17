@@ -5,11 +5,11 @@ project:
 website:
   title: "Statistique SCEE"
   navbar:
-    # left:
-    #   - href: index.fr.qmd
-    #     text: Accueil
-    #   - href: about.fr.qmd
-    #     text: À propos
+    left:
+      - href: index.fr.qmd
+        text: Accueil
+      - href: events.fr.qmd
+        text: Événements
     right: 
       - href: ../
         text: English
