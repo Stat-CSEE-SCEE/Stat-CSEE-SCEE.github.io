@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "events.fr.html",
-    "href": "events.fr.html",
-    "title": "Événements",
+    "objectID": "about.fr.html",
+    "href": "about.fr.html",
+    "title": "À propos",
     "section": "",
-    "text": "AGA inaugurale & réception\nNotre première assemblée générale annuelle (AGA) aura lieu lors de la prochaine conférence annuelle de la SCEE à Toronto et sera suivi d’une réception. L’événement aura lieu de 17 h à 19 h le 13 mai dans les Ramsay Wright Laboratories, salle 432 (RW432). L’AGA devrait durer ~30 minutes. Des boissons non-alcooliques et des amuse-gueules seront offerts pendant cette réception.\nVeuillez remplir le formulaire d’inscription en ligne si vous souhaitez y participer."
+    "text": "Les nouveaux outils, approches et questions en écologie et en évolution soulèvent de nouveaux défis analytiques, notamment le traitement de volumes croissants de données recueillies à des échelles spatiales et temporelles de plus en plus fines. Par conséquent, de nouvelles méthodologies sont nécessaires pour analyser ces ensembles de données et en extraire des informations et des connaissances utiles sur les gènes, les populations, les espèces, les traits, les communautés et les écosystèmes étudiés. Parallèlement, les statisticiens et les experts en science des données développent des nouvelles techniques qui peuvent enrichir la recherche en écologie et en évolution. La Section de Statistique a pour objectif de faire progresser le développement, l’évaluation et l’application des méthodes statistiques en écologie et en évolution, y compris la conception d’études observationnelles et expérimentales et l’analyse des données dans ces domaines d’études, en favorisant la collaboration et les échanges au sein des vastes communautés de recherche en écologie, en évolution, en statistique et en science des données au Canada. Conscients de l’importance d’une communication bidirectionnelle, nous visons à la fois à former les membres de la Société canadienne d’écologie et d’évolution (SCEE) aux nouvelles méthodologies analytiques et à informer la communauté statistique des développements et des besoins des écologues et des biologistes de l’évolution. À cette fin, la Section organise des événements qui rassemblent des publics divers et interdisciplinaires issus de tous les horizons de l’écologie, de l’évolution, des statistiques et des sciences des données afin de promouvoir de nouvelles collaborations et de favoriser de nouvelles idées qui profitent à tous.\n\nComité exécutif\nPrésidente: Marie Auger-Méthé, The University of British Columbia\nSecrétaire: Simon Bonner, Western University\nTrésorier: Guillaume Blanchet, Université de Sherbrooke"
   },
   {
     "objectID": "index.fr.html",
@@ -12,5 +12,12 @@
     "title": "Comité exécutif",
     "section": "",
     "text": "Les nouveaux outils, approches et questions en écologie et en évolution soulèvent de nouveaux défis analytiques, notamment le traitement de volumes croissants de données recueillies à des échelles spatiales et temporelles de plus en plus fines. Par conséquent, de nouvelles méthodologies sont nécessaires pour analyser ces ensembles de données et en extraire des informations et des connaissances utiles sur les gènes, les populations, les espèces, les traits, les communautés et les écosystèmes étudiés. Parallèlement, les statisticiens et les experts en science des données développent des nouvelles techniques qui peuvent enrichir la recherche en écologie et en évolution. La Section de Statistique a pour objectif de faire progresser le développement, l’évaluation et l’application des méthodes statistiques en écologie et en évolution, y compris la conception d’études observationnelles et expérimentales et l’analyse des données dans ces domaines d’études, en favorisant la collaboration et les échanges au sein des vastes communautés de recherche en écologie, en évolution, en statistique et en science des données au Canada. Conscients de l’importance d’une communication bidirectionnelle, nous visons à la fois à former les membres de la Société canadienne d’écologie et d’évolution (SCEE) aux nouvelles méthodologies analytiques et à informer la communauté statistique des développements et des besoins des écologues et des biologistes de l’évolution. À cette fin, la Section organise des événements qui rassemblent des publics divers et interdisciplinaires issus de tous les horizons de l’écologie, de l’évolution, des statistiques et des sciences des données afin de promouvoir de nouvelles collaborations et de favoriser de nouvelles idées qui profitent à tous."
+  },
+  {
+    "objectID": "events.fr.html",
+    "href": "events.fr.html",
+    "title": "Événements",
+    "section": "",
+    "text": "AGA inaugurale & réception\nNotre première assemblée générale annuelle (AGA) aura lieu lors de la prochaine conférence annuelle de la SCEE à Toronto et sera suivi d’une réception. L’événement aura lieu de 17 h à 19 h le 13 mai dans les Ramsay Wright Laboratories, salle 432 (RW432). L’AGA devrait durer ~30 minutes. Des boissons non-alcooliques et des amuse-gueules seront offerts pendant cette réception.\nVeuillez remplir le formulaire d’inscription en ligne si vous souhaitez y participer."
   }
 ]
