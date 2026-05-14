@@ -10,6 +10,8 @@ website:
         text: Accueil
       - href: events.fr.qmd
         text: Événements
+      - href: joinus.fr.qmd
+        text: Joindre
     right: 
       - href: ../
         text: English

@@ -10,6 +10,8 @@ website:
         text: Home
       - href: events.qmd
         text: Events
+      - href: joinus.qmd
+        text: Join
     right: 
       - href: fr/index.fr.qmd
         text: Français
