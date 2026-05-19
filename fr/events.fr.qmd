@@ -2,7 +2,9 @@
 title: "Événements"
 ---
 
-### AGA inaugurale & réception
+### AGA inaugurale & réception ([Minutes](documents/minutes_2026_agm.pdf))
+
+![Photo AGA 2026](images/2026_agm_group_photo.jpg){fig-alt="AGA 2026"}
 
 Notre première assemblée générale annuelle (AGA) aura lieu lors de la prochaine conférence annuelle de la SCEE à Toronto et sera suivi d'une réception. L'événement aura lieu de 17 h à 19 h le 13 mai dans les [Ramsay Wright Laboratories](https://maps.app.goo.gl/d7SBVUoZSyV8cgJ48), salle 432 (RW432). L'AGA devrait durer \~30 minutes. Des boissons non-alcooliques et des amuse-gueules seront offerts pendant cette réception.
 
