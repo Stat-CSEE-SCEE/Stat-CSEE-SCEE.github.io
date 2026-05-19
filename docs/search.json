@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "fr/about.fr.html",
-    "href": "fr/about.fr.html",
-    "title": "À propos",
+    "objectID": "joinus.html",
+    "href": "joinus.html",
+    "title": "Join the section",
     "section": "",
-    "text": "Les nouveaux outils, approches et questions en écologie et en évolution soulèvent de nouveaux défis analytiques, notamment le traitement de volumes croissants de données recueillies à des échelles spatiales et temporelles de plus en plus fines. Par conséquent, de nouvelles méthodologies sont nécessaires pour analyser ces ensembles de données et en extraire des informations et des connaissances utiles sur les gènes, les populations, les espèces, les traits, les communautés et les écosystèmes étudiés. Parallèlement, les statisticiens et les experts en science des données développent des nouvelles techniques qui peuvent enrichir la recherche en écologie et en évolution. La Section de Statistique a pour objectif de faire progresser le développement, l’évaluation et l’application des méthodes statistiques en écologie et en évolution, y compris la conception d’études observationnelles et expérimentales et l’analyse des données dans ces domaines d’études, en favorisant la collaboration et les échanges au sein des vastes communautés de recherche en écologie, en évolution, en statistique et en science des données au Canada. Conscients de l’importance d’une communication bidirectionnelle, nous visons à la fois à former les membres de la Société canadienne d’écologie et d’évolution (SCEE) aux nouvelles méthodologies analytiques et à informer la communauté statistique des développements et des besoins des écologues et des biologistes de l’évolution. À cette fin, la Section organise des événements qui rassemblent des publics divers et interdisciplinaires issus de tous les horizons de l’écologie, de l’évolution, des statistiques et des sciences des données afin de promouvoir de nouvelles collaborations et de favoriser de nouvelles idées qui profitent à tous.\n\nComité exécutif\nPrésidente: Marie Auger-Méthé, The University of British Columbia\nSecrétaire: Simon Bonner, Western University\nTrésorier: Guillaume Blanchet, Université de Sherbrooke"
+    "text": "To join the section, login to the CSEE members area and edit your profile to add the Statistics section. Joining is free, but to support the activities of the section, we suggest that faculty members and professionals donate $10 per year and that students and postdoctoral fellows donate $5 per year. Donate to the section"
   },
   {
     "objectID": "fr/joinus.fr.html",
@@ -14,6 +14,20 @@
     "text": "Pour joindre la section, connectez-vous à l’espace membres du CSEE et modifiez votre profile pour ajouter la section Statistiques. L’adhésion est gratuite, mais pour soutenir les activités de la section, nous suggérons aux professeurs et aux professionnels de faire un don de 10 $ par an et aux étudiants et postdoctorants de faire un don de 5 $ par an. Faites un don à la section."
   },
   {
+    "objectID": "fr/events.fr.html",
+    "href": "fr/events.fr.html",
+    "title": "Événements",
+    "section": "",
+    "text": "AGA inaugurale & réception (Minutes)\n\n\n\nPhoto AGA 2026\n\n\nNotre première assemblée générale annuelle (AGA) aura lieu lors de la prochaine conférence annuelle de la SCEE à Toronto et sera suivi d’une réception. L’événement aura lieu de 17 h à 19 h le 13 mai dans les Ramsay Wright Laboratories, salle 432 (RW432). L’AGA devrait durer ~30 minutes. Des boissons non-alcooliques et des amuse-gueules seront offerts pendant cette réception.\nVeuillez remplir le formulaire d’inscription en ligne si vous souhaitez y participer."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "May 13, 2026 5pm - Inaugural AGM & mixer (Minutes)\n\n\n\n2026 AGM Group Photo\n\n\nWe will be holding our first AGM and mixer during the upcoming CSEE Annual Meeting in Toronto. The event will be held from 5-7:00pm on May 13 in the Ramsay Wright Laboratorie room 432 (RW432). We expect the AGM to last for half-an-hour. Food and non-alcoholic drinks will be provided during the mixer.\nPlease complete the online registration form if you would like to attend."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -21,25 +35,11 @@
     "text": "Novel tools, approaches, and questions in ecology and evolution bring new analytical challenges, including handling larger amounts of data collected at finer and finer spatial and temporal scales. As a result, new methodologies are required to analyze the resulting data sets and to extract useful information and insights about the genes, populations, species, traits, communities, and ecosystems of interest. At the same time, statisticians and data scientists are developing novel techniques that can benefit ecological and evolutionary research. The goal of the Statistics Section is to advance the development, assessment, and application of statistical methods in ecology and evolution including the design of observational and experimental studies and the analysis of ecological and evolutionary data by promoting collaboration and discussion within the broad research communities of ecology, evolution, statistics, and data science in Canada. Recognizing the need for two-way communication, we aim both to educate the members of the Canadian Society for Ecology and Evolution (CSEE) about emerging analytical methodology and to teach the statistical community about new developments and needs of ecologists and evolutionary biologists. To this end, the Section organizes events that bring together diverse, interdisciplinary audiences from across the spectrums of ecology, evolution, statistics, and data science to promote new collaborations and foster new ideas that benefit all groups.\n\nExecutive committee\nChair: Marie Auger-Méthé, The University of British Columbia\nSecretary: Simon Bonner, Western University\nTreasurer: Guillaume Blanchet, Université de Sherbrooke"
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
+    "objectID": "fr/about.fr.html",
+    "href": "fr/about.fr.html",
+    "title": "À propos",
     "section": "",
-    "text": "May 13, 2026 5pm - Inaugural AGM & mixer\nWe will be holding our first AGM and mixer during the upcoming CSEE Annual Meeting in Toronto. The event will be held from 5-7:00pm on May 13 in the Ramsay Wright Laboratorie room 432 (RW432). We expect the AGM to last for half-an-hour. Food and non-alcoholic drinks will be provided during the mixer.\nPlease complete the online registration form if you would like to attend."
-  },
-  {
-    "objectID": "joinus.html",
-    "href": "joinus.html",
-    "title": "Join the section",
-    "section": "",
-    "text": "To join the section, login to the CSEE members area and edit your profile to add the Statistics section. Joining is free, but to support the activities of the section, we suggest that faculty members and professionals donate $10 per year and that students and postdoctoral fellows donate $5 per year. Donate to the section"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Executive committee",
-    "section": "",
-    "text": "Novel tools, approaches, and questions in ecology and evolution bring new analytical challenges, including handling larger amounts of data collected at finer and finer spatial and temporal scales. As a result, new methodologies are required to analyze the resulting data sets and to extract useful information and insights about the genes, populations, species, traits, communities, and ecosystems of interest. At the same time, statisticians and data scientists are developing novel techniques that can benefit ecological and evolutionary research. The goal of the Statistics Section is to advance the development, assessment, and application of statistical methods in ecology and evolution including the design of observational and experimental studies and the analysis of ecological and evolutionary data by promoting collaboration and discussion within the broad research communities of ecology, evolution, statistics, and data science in Canada. Recognizing the need for two-way communication, we aim both to educate the members of the Canadian Society for Ecology and Evolution (CSEE) about emerging analytical methodology and to teach the statistical community about new developments and needs of ecologists and evolutionary biologists. To this end, the Section organizes events that bring together diverse, interdisciplinary audiences from across the spectrums of ecology, evolution, statistics, and data science to promote new collaborations and foster new ideas that benefit all groups."
+    "text": "Les nouveaux outils, approches et questions en écologie et en évolution soulèvent de nouveaux défis analytiques, notamment le traitement de volumes croissants de données recueillies à des échelles spatiales et temporelles de plus en plus fines. Par conséquent, de nouvelles méthodologies sont nécessaires pour analyser ces ensembles de données et en extraire des informations et des connaissances utiles sur les gènes, les populations, les espèces, les traits, les communautés et les écosystèmes étudiés. Parallèlement, les statisticiens et les experts en science des données développent des nouvelles techniques qui peuvent enrichir la recherche en écologie et en évolution. La Section de Statistique a pour objectif de faire progresser le développement, l’évaluation et l’application des méthodes statistiques en écologie et en évolution, y compris la conception d’études observationnelles et expérimentales et l’analyse des données dans ces domaines d’études, en favorisant la collaboration et les échanges au sein des vastes communautés de recherche en écologie, en évolution, en statistique et en science des données au Canada. Conscients de l’importance d’une communication bidirectionnelle, nous visons à la fois à former les membres de la Société canadienne d’écologie et d’évolution (SCEE) aux nouvelles méthodologies analytiques et à informer la communauté statistique des développements et des besoins des écologues et des biologistes de l’évolution. À cette fin, la Section organise des événements qui rassemblent des publics divers et interdisciplinaires issus de tous les horizons de l’écologie, de l’évolution, des statistiques et des sciences des données afin de promouvoir de nouvelles collaborations et de favoriser de nouvelles idées qui profitent à tous.\n\nComité exécutif\nPrésidente: Marie Auger-Méthé, The University of British Columbia\nSecrétaire: Simon Bonner, Western University\nTrésorier: Guillaume Blanchet, Université de Sherbrooke"
   },
   {
     "objectID": "fr/index.fr.html",
@@ -49,10 +49,10 @@
     "text": "Les nouveaux outils, approches et questions en écologie et en évolution soulèvent de nouveaux défis analytiques, notamment le traitement de volumes croissants de données recueillies à des échelles spatiales et temporelles de plus en plus fines. Par conséquent, de nouvelles méthodologies sont nécessaires pour analyser ces ensembles de données et en extraire des informations et des connaissances utiles sur les gènes, les populations, les espèces, les traits, les communautés et les écosystèmes étudiés. Parallèlement, les statisticiens et les experts en science des données développent des nouvelles techniques qui peuvent enrichir la recherche en écologie et en évolution. La Section de Statistique a pour objectif de faire progresser le développement, l’évaluation et l’application des méthodes statistiques en écologie et en évolution, y compris la conception d’études observationnelles et expérimentales et l’analyse des données dans ces domaines d’études, en favorisant la collaboration et les échanges au sein des vastes communautés de recherche en écologie, en évolution, en statistique et en science des données au Canada. Conscients de l’importance d’une communication bidirectionnelle, nous visons à la fois à former les membres de la Société canadienne d’écologie et d’évolution (SCEE) aux nouvelles méthodologies analytiques et à informer la communauté statistique des développements et des besoins des écologues et des biologistes de l’évolution. À cette fin, la Section organise des événements qui rassemblent des publics divers et interdisciplinaires issus de tous les horizons de l’écologie, de l’évolution, des statistiques et des sciences des données afin de promouvoir de nouvelles collaborations et de favoriser de nouvelles idées qui profitent à tous."
   },
   {
-    "objectID": "fr/events.fr.html",
-    "href": "fr/events.fr.html",
-    "title": "Événements",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Executive committee",
     "section": "",
-    "text": "AGA inaugurale & réception\nNotre première assemblée générale annuelle (AGA) aura lieu lors de la prochaine conférence annuelle de la SCEE à Toronto et sera suivi d’une réception. L’événement aura lieu de 17 h à 19 h le 13 mai dans les Ramsay Wright Laboratories, salle 432 (RW432). L’AGA devrait durer ~30 minutes. Des boissons non-alcooliques et des amuse-gueules seront offerts pendant cette réception.\nVeuillez remplir le formulaire d’inscription en ligne si vous souhaitez y participer."
+    "text": "Novel tools, approaches, and questions in ecology and evolution bring new analytical challenges, including handling larger amounts of data collected at finer and finer spatial and temporal scales. As a result, new methodologies are required to analyze the resulting data sets and to extract useful information and insights about the genes, populations, species, traits, communities, and ecosystems of interest. At the same time, statisticians and data scientists are developing novel techniques that can benefit ecological and evolutionary research. The goal of the Statistics Section is to advance the development, assessment, and application of statistical methods in ecology and evolution including the design of observational and experimental studies and the analysis of ecological and evolutionary data by promoting collaboration and discussion within the broad research communities of ecology, evolution, statistics, and data science in Canada. Recognizing the need for two-way communication, we aim both to educate the members of the Canadian Society for Ecology and Evolution (CSEE) about emerging analytical methodology and to teach the statistical community about new developments and needs of ecologists and evolutionary biologists. To this end, the Section organizes events that bring together diverse, interdisciplinary audiences from across the spectrums of ecology, evolution, statistics, and data science to promote new collaborations and foster new ideas that benefit all groups."
   }
 ]

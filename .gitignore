@@ -8,3 +8,5 @@
 # Quarto files
 /.quarto/
 _site/*
+
+**/*.quarto_ipynb
