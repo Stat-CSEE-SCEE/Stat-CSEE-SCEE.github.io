@@ -2,7 +2,9 @@
 title: "Events"
 ---
 
-### May 13, 2026 5pm - Inaugural AGM & mixer
+### May 13, 2026 5pm - Inaugural AGM & mixer ([Minutes](documents/minutes_2026_agm.pdf "2026 AGM Minutes"))
+
+![2026 AGM Group Photo](images/2026_agm_group_photo.jpg){fig-alt="2026 AGM Group Photo" fig-align="center"}
 
 We will be holding our first AGM and mixer during the upcoming CSEE Annual Meeting in Toronto. The event will be held from 5-7:00pm on May 13 in the [Ramsay Wright Laboratorie](https://maps.app.goo.gl/KUruQs6PDXhPzEhB9) room 432 (RW432). We expect the AGM to last for half-an-hour. Food and non-alcoholic drinks will be provided during the mixer.
 
