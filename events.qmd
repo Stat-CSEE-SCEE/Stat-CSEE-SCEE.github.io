@@ -2,6 +2,12 @@
 title: "Events"
 ---
 
+### 2027 Annual CSEE Conference - Case Study Competition
+
+We are excited to announce that the Statistics Section will be hosting the inaugural data analysis Case Study Competition at the 2027 Annual CSEE conference. The competition is designed to engage students in the analysis of large and complex ecological or evolutionary data. Teams of 2 to 5 students supported by a faculty/post-doc mentor will work together to analyse a selected data set and will present their work in poster format at the 2027 Annual Meeting of the CSEE. Posters will be judged by members of the Statistics Section, and prizes will be awarded for the best submissions.
+
+Full details are available [here](documents/csee_datathon_2026_2_english.pdf). Data for the analysis are available [here](documents/csee_2027_case_study.zip).
+
 ### May 13, 2026 5pm - Inaugural AGM & mixer ([Minutes](documents/minutes_2026_agm.pdf "2026 AGM Minutes"))
 
 ![2026 AGM Group Photo](images/2026_agm_group_photo.jpg){fig-alt="2026 AGM Group Photo" fig-align="center"}
