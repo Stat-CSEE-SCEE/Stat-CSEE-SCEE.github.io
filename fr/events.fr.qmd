@@ -2,6 +2,12 @@
 title: "Événements"
 ---
 
+### **Conférence Annuelle 2027 de la SCÉÉ –** Compétition *Cas d’étude* 
+
+Nous avons le plaisir d’annoncer que la section Statistique organisera, lors du conférence annuelle 2027 de la SCÉÉ , la toute première compétition d’analyse de données sous forme d’étude de cas. La compétition invite les étudiantes et les étudiants à participer à l’analyse de données écologiques ou évolutives volumineuses et complexes. Des équipes composées de 2 à 5 étudiantes et étudiants, encadrées par un professeur ou un stagiaire postdoctoral, travailleront ensemble à l’analyse d’un jeu de données sélectionné et présenteront leurs travaux sous forme d’affiches lors du congrès annuel 2027 de la SCÉÉ. Les affiches seront évaluées par des membres de la section Statistiques et des prix seront décernés aux meilleures contributions.
+
+Les instructions sont disponsible [ici](documents/csee_datathon_2026_2_francais.pdf). Les données sont disponsible [ici](documents/csee_2027_case_study.zip).
+
 ### AGA inaugurale & réception ([Minutes](documents/minutes_2026_agm.pdf))
 
 ![Photo AGA 2026](images/2026_agm_group_photo.jpg){fig-alt="AGA 2026"}
